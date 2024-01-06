@@ -4,7 +4,7 @@ import { MdOutlineArrowOutward } from "react-icons/md";
 
 const Header = () => {
   return (
-    <div class="flex flex-col w-auto h-[100vh] py-36 bg-black text-white">
+    <div class="flex flex-col w-auto h-full py-36 bg-black text-white">
       <img class="w-48 h-24" src={profile} alt="profile" />
       <h1 class="text-9xl font-bold">
         Md Tusher <br /> Digital designer <br /> based in London

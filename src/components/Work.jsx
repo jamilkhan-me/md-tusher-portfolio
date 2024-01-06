@@ -6,7 +6,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 const Work = () => {
   return (
-    <div class="h-full">
+    <div class="h-full mt-10">
       <div>
         <h1 class="text-6xl w-full border-t-2 pt-8">Work</h1>
         <div class="pt-24">
